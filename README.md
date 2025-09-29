@@ -8,5 +8,4 @@ This is a test update to trigger CI.
 [![Releases](https://img.shields.io/github/release/sandaraung35/DevOpsClassLab1/all.svg?style=flat-square)](https://github.com/sandaraung35/DevOpsClassLab1/releases)
 
 
-
-[GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/sandaraung35/DevOpsClassLab1/main.yml/develop?style=flat-square)
+[Develop Build Status](https://github.com/sandaraung35/DevOpsClassLab1/actions/workflows/main.yml/badge.svg?branch=develop)

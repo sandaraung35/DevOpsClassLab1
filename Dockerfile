@@ -1,4 +1,4 @@
 FROM openjdk:23
-COPY ./target/classes/com /tmp/com
+COPY ./target/DevOpsProjectClassRoom1-0.1.0.4-jar-with-dependencies.jar /tmp/
 WORKDIR /tmp
-ENTRYPOINT ["java", "com.napier.App"]
+ENTRYPOINT ["java", "-jar", "DevOpsProjectClassRoom1-0.1.0.4-jar-with-dependencies.jar"]
